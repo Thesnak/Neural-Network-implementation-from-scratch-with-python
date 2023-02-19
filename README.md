@@ -1,4 +1,4 @@
-# Neural-Network-implementation-from-scratch-with-python-
+# Neural Network implementation from scratch with python
 
 
 Neural Network with 2 Layers
